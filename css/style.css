@@ -1,0 +1,25 @@
+.navbar{
+    background-color: aquamarine;
+}
+
+.quem-somos{
+    background-color: burlywood;
+}
+
+.parceiros{
+    background-color: coral;
+}
+
+.servicos{
+    background-color: crimson;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
